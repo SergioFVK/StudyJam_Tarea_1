@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00008B</color>
+    <color name="colorPrimaryDark">#000080</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="color.tv.llamadas">#6495ED</color>
+    <color name="color.tv.internet">#FF8C00</color>
+    <color name="color.tv.mensajes">#9ACD32</color>
+    <color name="color.tv.combo">#8B008B</color>
+</resources>
